@@ -19,7 +19,7 @@ This project implements a simple Caesar Cipher algorithm to encode and decode me
    ```
 3. Install the required dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install flask
    ```
 
 ## Usage
