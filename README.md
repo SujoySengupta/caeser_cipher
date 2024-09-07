@@ -35,8 +35,5 @@ This project implements a simple Caesar Cipher algorithm to encode and decode me
 - **templates/**: Contains HTML templates.
 - **main.py**: The main script to run the web application.
 
-## Contributing
-Feel free to fork this repository and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 This project is licensed under the MIT License.
